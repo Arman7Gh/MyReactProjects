@@ -1,0 +1,15 @@
+{
+  "short_name": "پاپلی استور",
+  "name": "پاپلی",
+  "icons": [
+    {
+      "src": "./assets/img/papeli.png",
+      "sizes": "100x100",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

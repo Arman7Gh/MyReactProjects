@@ -1,0 +1,71 @@
+.productbox {
+  height: 200px;
+  /* border: 1px solid rgb(197, 199, 198); */
+  box-shadow: 0px 0px 7px rgb(61, 63, 63);
+  border-radius: 10px;
+  color: rgb(56, 53, 53);
+  text-align: center;
+  font-size: 26px;
+  font-weight: 400;
+  padding-top: 10px;
+  margin: auto;
+  margin: 5px 5px 5px 0px;
+}
+
+.b1 {
+  background-image: url('../../../assets/img/stand.jpg');
+  background-size: 100% 140%;
+  background-position-y: 80%;
+}
+
+.b2 {
+  background-image: url('../../../assets/img/box.jpg');
+  background-size: 100% 140%;
+  background-position-y: 80%;
+}
+
+.b3 {
+  background-image: url('../../../assets/img/board.jpg');
+  background-size: 100% 140%;
+  background-position-y: 70%;
+}
+
+.b4 {
+  background-image: url('../../../assets/img/L3030-01-1.jpg');
+  background-size: 150% 160%;
+  background-position-x: 50%;
+  background-position-y: 67%;
+}
+
+b {
+  font-size: 26px;
+  font-weight: 600;
+  color: rgb(58, 115, 190);
+}
+
+.m1 {
+  background-image: url('../../../assets/img/استند--اسم--زوج-2.jpg');
+  background-size: 100% 100%;
+  background-position-y: 80%;
+}
+
+.m2 {
+  background-image: url('../../../assets/img/تابلو-شعر-جانی-دلی2.jpg');
+  background-size: 100% 100%;
+  background-position: center;
+}
+
+.m3 {
+  background-image: url('../../../assets/img/سطل-جادستمالی1.jpg');
+  background-size: 100% 100%;
+  background-position-y: 80%;
+}
+
+.m4 {
+  background-image: url('../../../assets/img/استند-اسم-1.jpg');
+  background-size: 100% 100%;
+  background-position-y: 80%;
+}
+p{
+  text-align: center;
+}

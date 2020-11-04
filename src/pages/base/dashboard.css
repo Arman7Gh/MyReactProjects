@@ -1,0 +1,84 @@
+.dashboard {
+  padding: 2%;
+  /* margin: 20px; */
+  margin: auto;
+  text-align: center;
+  /* align-content: center; */
+}
+
+.sidbar {
+  padding: 8%;
+  border-radius: 5px;
+  height: 100%;
+  margin: 0px 1%;
+  text-align: right;
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+.fa-user-circle {
+  color: rgb(64, 144, 155);
+  margin: auto;
+  margin-top: 0px;
+  padding: 0px;
+  width: 80%;
+}
+.sidborbtn{
+  width: 90%;
+  text-align: right;
+  margin: 5%;
+}
+
+.body {
+  padding: 2px;
+  border-radius: 5px;
+  height: 100%;
+  margin: 0px 1%;
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+  margin: auto;
+  justify-content: center;
+}
+.Contentbody{
+  width: 90%;
+  margin: auto;
+  justify-content: center;
+}
+.button {
+  font-size: 20px;
+  font-weight: normal;
+  color: white;
+}
+
+.inputbox {
+  width: 95%;
+  margin: auto;
+  direction: ltr;
+  padding-right: 15px;
+}
+
+.input {
+  /* margin: auto; */
+  margin-bottom: 15px;
+}
+
+.inputtext {
+  width: 100px;
+  /* margin: auto; */
+  justify-content: center;
+  direction: rtl;
+}
+
+.inputcontact {
+  text-align: right;
+}
+
+.forms {
+  direction: ltr;
+}
+
+.addbox {
+  width: 90%;
+  /* margin-top: 5px; */
+  padding: 5px;
+}

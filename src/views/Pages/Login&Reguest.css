@@ -1,0 +1,58 @@
+.page-body {
+  margin: auto;
+  margin-top: 10px;
+  justify-content: center;
+  /* font-weight: bold; */
+}
+
+.text {
+  font-size: 22px;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 16 px;
+  color: rgb(14, 60, 63);
+}
+
+p {
+  text-align: right;
+  /* margin-top: 20px; */
+  padding-right: 5% !important;
+}
+
+.button {
+  font-size: 20px;
+  font-weight: normal;
+  color: white;
+}
+
+.inputbox {
+  width: 95%;
+  margin: auto;
+  /* direction: ltr; */
+  padding-right: 15px;
+}
+
+.input {
+  /* margin: auto; */
+  margin-bottom: 15px;
+  /* direction: ltr; */
+}
+
+.inputtext {
+  width: 100px;
+  /* margin: auto; */
+  justify-content: center;
+  direction: rtl;
+}
+
+/* .forms {
+  direction: ltr;
+} */
+
+.bt {
+  /* direction: ltr; */
+  float: right;
+  margin-top: 15px;
+}
